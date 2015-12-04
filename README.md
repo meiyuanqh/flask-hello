@@ -1,3 +1,3 @@
 # flask-hello
 a HelloWorld docker image based on Flask
-The Git repo [Oscarzhao/flask-hello](https://github.com/Oscarzhao/flask-hello "flask-hello")
+The Git repo [meiyuanqh/flask-hello](https://github.com/meiyuanqh/flask-hello "flask-hello")
