@@ -1,5 +1,5 @@
 from python:2.7-slim
-MAINTAINER Shuai-long Zhao <shuailong@tenxcloud.com>
+MAINTAINER meiyuanqh <meiyuanqh@163.com>
 
 ADD app.py app.py
 ADD run.sh /run.sh
