@@ -5,9 +5,9 @@ app = Flask(__name__)
 def hello():
     return "<h1 align=\"center\">Hello World!<h1><h3 align=\"center\">Powered by flask and python</h3>"
 
-@app.route("/<name>")
-def helloname():
-    return "<h1 align=\"center\">Hello <name>!<h1><h3 align=\"center\">Powered by flask and python</h3>"
+@app.route("/meiyuan")
+def hellomeiyuan():
+    return "<h1 align=\"center\">Hello meiyuan!<h1><h3 align=\"center\">Powered by flask and python</h3>"
 
 if __name__ == "__main__":
     app.run("0.0.0.0", 80)
