@@ -7,7 +7,7 @@ def hello():
 
 @app.route("/meiyuan")
 def hellomeiyuan():
-    return "<h1 align=\"center\">Hello meiyuan!<h1><h3 align=\"center\">Powered by flask and python</h3>"
+    return "<h1 align=\"center\">你好 meiyuan!<h1><h3 align=\"center\">Powered by flask and python</h3>"
 
 if __name__ == "__main__":
     app.run("0.0.0.0", 80)
